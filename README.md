@@ -23,7 +23,12 @@ A clean and functional **React Signup Form** with basic validation and success f
 2. Replace the content of `App.js` (or `App.jsx`) with the provided code
 3. Start the development server:
 
-```bash
+bash
 npm start
 # or
 npm run dev
+
+## 🛠️ Tech Stack
+
+React (Functional Component + useState)
+Inline CSS
