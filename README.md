@@ -32,3 +32,11 @@ npm run dev
 
 React (Functional Component + useState)
 Inline CSS
+
+## 🎯 How It Works
+
+form state holds the current input values
+touched state tracks which fields the user has interacted with
+Errors only appear after a field is blurred or when the form is submitted
+On successful submit, a success message is shown and the form is reset
+Clear button resets both form data and validation state
